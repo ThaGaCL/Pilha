@@ -6,4 +6,4 @@
 - Criar uma biblioteca implementando o TAD Pilha
 
 #### Aviso:
-Trabalho foi refeito durante o recesso de 07/23 
+Trabalho foi refeito durante o recesso de 07/23
